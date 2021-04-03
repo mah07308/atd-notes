@@ -1,0 +1,29 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+} */
+
+body {
+  background-color: #ffffcc;
+}
+
+header {
+  text-align: center;
+  /* margin: 0; */
+  /* padding: 1rem; */
+  /* background-color: #ccc; */
+}
+
+.syllabus {
+  /* padding: 1rem; */
+  text-align: left;
+}
+
+.units {
+  text-align: justify;
+}
+
+.course-objectives {
+  text-align: start;
+}
