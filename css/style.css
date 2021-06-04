@@ -1,12 +1,11 @@
 * {
   /* margin: 0; */
-  padding: auto;
   box-sizing: border-box;
 }
 
 body {
   box-sizing: border-box;
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #ffffcc;
@@ -139,6 +138,10 @@ a {
 
 .course-objectives {
   text-align: start;
+}
+
+.topic li {
+  padding: 3px 0;
 }
 
 @media (max-width: 834px) {
